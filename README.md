@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamdeegit" alt="HamdeeGit" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@hamdee_dev" target="blank"><img src="https://img.shields.io/twitter/follow/@HamdeeDev?logo=twitter&style=for-the-badge" alt="@HamdeeDev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/HamdeeDev" target="blank"><img src="https://img.shields.io/twitter/follow/@HamdeeDev?logo=twitter&style=for-the-badge" alt="@HamdeeDev" /></a> </p>
 
 - 🔭 I’m currently working on **My Profile**
 
@@ -36,9 +36,9 @@
 <p align="left">
 <a href="https://codepen.io/HamdeePen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@HamdeePen" height="30" width="40" /></a>
 <a href="https://dev.to/@hamdeedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@hamdeedev" height="30" width="40" /></a>
-<a href="https://twitter.com/@hamdee_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hamdee_dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hamdees-web-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamdees-web-dev" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/hamdeedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hamdeedev" height="30" width="40" /></a>
+<a href="https://twitter.com/HamdeeDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@HamdeeDev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hamdee-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamdee-dev" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20788630/hamdeedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hamdeedev" height="30" width="40" /></a>
 <a href="https://hashnode.com/@hamdeedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@hamdeedev" height="30" width="40" /></a>
 <a href="https://medium.com/@ahmedessasalihahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahmedessasalihahmed" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/hamdeedev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hamdeedev" height="30" width="40" /></a>
