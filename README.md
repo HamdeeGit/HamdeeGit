@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamdeegit" alt="HamdeeGit" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/HamdeeDev" target="blank"><img src="https://img.shields.io/twitter/follow/@HamdeeDev?logo=twitter&style=for-the-badge" alt="@HamdeeDev"></a><a href="https://twitter.com/HamdeeDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @HamdeeDev</a> </p>
+<p align="left"> <a href="https://twitter.com/HamdeeDev" target="blank"><img src="https://img.shields.io/twitter/follow/@HamdeeDev?logo=twitter&style=for-the-badge" alt="@HamdeeDev">Follow @HamdeeDev</a> </p>
 
 <a href="https://twitter.com/HamdeeDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @HamdeeDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
