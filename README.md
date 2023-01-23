@@ -4,11 +4,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Essa Salih</h1>
 <h3 align="center">A Passionate Web Developer & Writer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamdee&label=Profile%20views&color=0e75b6&style=flat" alt="hamdee" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamdeegit&label=Profile%20views&color=0e75b6&style=flat" alt="HamdeeGit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamdee" alt="hamdee" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamdeegit" alt="HamdeeGit" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@hamdee_dev" target="blank"><img src="https://img.shields.io/twitter/follow/@hamdee_dev?logo=twitter&style=for-the-badge" alt="@HamdeeDev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@hamdee_dev" target="blank"><img src="https://img.shields.io/twitter/follow/@HamdeeDev?logo=twitter&style=for-the-badge" alt="@HamdeeDev" /></a> </p>
 
 - 🔭 I’m currently working on **My Profile**
 
