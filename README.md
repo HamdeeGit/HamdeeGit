@@ -10,6 +10,8 @@
 
 <p align="left"> <a href="https://twitter.com/HamdeeDev" target="blank"><img src="https://img.shields.io/twitter/follow/@HamdeeDev?logo=twitter&style=for-the-badge" alt="@HamdeeDev"></a> </p>
 
+<a href="https://twitter.com/HamdeeDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @HamdeeDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 - 🔭 I’m currently working on **My Profile**
 
 - 🌱 I’m currently learning **React, Vue & Django-Python**
